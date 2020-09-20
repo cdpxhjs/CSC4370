@@ -1,0 +1,136 @@
+#BackGnd
+{
+    border: 
+    1px
+    solid
+    black;
+
+    padding:
+    25px;
+
+    background:
+    url(bg.jpg);
+
+    background-repeat: 
+    no-repeat;
+
+    background-size: 
+    auto;
+}
+
+body
+{
+    font-family: 
+    sans-serif;
+}
+
+h1
+{
+    font-size:
+    50px;
+
+    font-family: 
+    Courier New;
+}
+
+h2
+{
+    font-size: 
+    36px;
+
+    font-family: 
+    Impact;
+}
+
+h3
+{
+    font-size: 
+    25px;
+
+    font-family: 
+    Impact;
+}
+
+li
+{
+    font-size:
+    25px;
+
+    font-family: 
+    Comic Sans MS;
+}
+
+p
+{
+    font-size: 
+    18px;
+
+    font-family: 
+    Times New Roman;
+}
+
+table
+{
+    border-collapse: 
+    collapse;
+
+    border-spacing: 
+    0;
+
+    width: 
+    80%;
+
+    border: 
+    1px 
+    solid 
+    #ddd;
+}
+
+th, td 
+{
+    text-align:
+    left;
+
+    padding:
+    20px;
+
+    font-family:
+    garamond;
+}
+
+tr:nth-child(even)
+{
+    background-color: 
+    #696969;
+}
+
+a:hover 
+{
+    background-color:
+     rgb(4, 0, 255);
+}
+
+span 
+{
+    color:
+    red;
+
+    font-weight:
+    bold;
+}
+
+#MOVIE
+{
+    border: 
+    2px 
+    outset 
+    rgb(0, 204, 255);
+
+    background-color: 
+    lightblue;
+
+    text-align: 
+    left;
+}
+
+
